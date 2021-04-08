@@ -1,15 +1,6 @@
 # Presentación
 
 ## Estudiante: Matias Gratz
-Hola me llamo, Matias Gratz pero pocos me dicen matias, mis apodos son gara,mighty o cuca para los muy amigos... Aficionado del diseño gráfico/multimedial y los videojuegos
-▦⚉⌦✪✾⑲◗⎘
-![mi foto](foto.jpg)
-▦⚉⌦✪✾⑲◗⎘
-***Social Media** 
--💜 [Twitch](https://www.twitch.tv/mightyplayer)
--💀 [Instagram](https://www.instagram.com/matiasgratz/)
--🗨️ [Discord](https://discord.gg/yza9jTCMEY)
-
 
 ## Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
@@ -37,5 +28,5 @@ Hola me llamo, Matias Gratz pero pocos me dicen matias, mis apodos son gara,migh
 - Actualmente queriendo aprender cosas nuevas, ajedrez,rubik,etc;
 
 >the only impossible journey is the one you never begin.
-
+![mi foto](foto.jpg)
 ⭐️ De [matiasgratz](https://github.com/matiasgratz)

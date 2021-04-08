@@ -19,7 +19,7 @@
   <img align="left" alt="Matias Instagram" width="22px" src="https://i.postimg.cc/KjN5hCmQ/instagram.png" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" />
 
 ### Soy Matías Gratz
 - Estudiante Ingenieria en Sistemas de Información UTN.
@@ -27,5 +27,5 @@
 - Actualmente queriendo aprender cosas nuevas, ajedrez,rubik,etc;
 
 >the only impossible journey is the one you never begin.
-<img align="left" width="100" height="100" src="https://i.postimg.cc/L8zLcrvP/foto.jpg">
+<img align="left" width="200" height="200" src="https://i.postimg.cc/L8zLcrvP/foto.jpg">
 ⭐️ De [matiasgratz](https://github.com/matiasgratz)

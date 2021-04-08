@@ -28,5 +28,5 @@
 - Actualmente queriendo aprender cosas nuevas, ajedrez,rubik,etc;
 
 >the only impossible journey is the one you never begin.
-![mi foto](foto.jpg)
+<img align="left" width="100" height="100" src="https://i.postimg.cc/L8zLcrvP/foto.jpg">
 ⭐️ De [matiasgratz](https://github.com/matiasgratz)

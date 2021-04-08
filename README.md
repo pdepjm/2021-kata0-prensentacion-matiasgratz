@@ -11,33 +11,31 @@ Hola me llamo, Matias Gratz pero pocos me dicen matias, mis apodos son gara,migh
 -🗨️ [Discord](https://discord.gg/yza9jTCMEY)
 
 
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://twitter.com/ajaykhalsa_ak">
-  <img align="left" alt="Ajay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/matiasgratz">
+  <img align="left" alt="Matias Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ajay-singh-khalsa/">
-  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://github.com/matiasgratz">
+  <img align="left" alt="Matias Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://github.com/AjayKhalsa">
-  <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/AjayKhalsa">
-  <img align="left" alt="Ajay's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/Mighty">
+  <img align="left" alt="Mighty's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.twitch.tv/mightyplayer">
   <img align="left" alt="Mightyplayer Twitch" width="22px" src="https://i.postimg.cc/CK1sTc2s/twitch.png" />
 </a>
-<a href="https://www.kaggle.com/ajaykhalsa">
-  <img align="left" alt="Ajay's Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+<a href="https://www.instagram.com/matiasgratz/">
+  <img align="left" alt="Matias Instagram" width="22px" src="https://i.postimg.cc/KjN5hCmQ/instagram.png" />
 </a>
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-### I am Ajay Singh Khalsa
-- An ML & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
-- Currently working on some of my cool side projects based on Web Development and Machine Learning.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+### Soy Matías Gratz
+- Estudiante Ingenieria en Sistemas de Información UTN.
+- Streamer de hobby (al menos por ahora). 
+- Actualmente queriendo aprender cosas nuevas, ajedrez,rubik,etc;
 
-⭐️ From [AjayKhalsa](https://github.com/AjayKhalsa)
+>the only impossible journey is the one you never begin.
+
+⭐️ De [matiasgratz](https://github.com/matiasgratz)

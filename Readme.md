@@ -27,4 +27,4 @@
 - Actualmente queriendo aprender cosas nuevas, ajedrez,rubik,etc;
 
 >the only impossible journey is the one you never begin.
-<img align="left" width="200" height="200" src="https://i.postimg.cc/L8zLcrvP/foto.jpg">
+<img align="left" width="200" height="250" src="https://i.postimg.cc/L8zLcrvP/foto.jpg">

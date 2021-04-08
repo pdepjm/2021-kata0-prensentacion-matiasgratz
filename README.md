@@ -1,7 +1,6 @@
 # Presentación
 
 ## Estudiante: Matias Gratz
-
 ## Hola! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/matiasgratz">
@@ -20,7 +19,7 @@
   <img align="left" alt="Matias Instagram" width="22px" src="https://i.postimg.cc/KjN5hCmQ/instagram.png" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/IPbS5R4fSUl5S/giphy.gif" />
 
 ### Soy Matías Gratz
 - Estudiante Ingenieria en Sistemas de Información UTN.
